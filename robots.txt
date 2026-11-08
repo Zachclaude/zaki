@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://zachclaude.github.io/zaki/sitemap.xml
